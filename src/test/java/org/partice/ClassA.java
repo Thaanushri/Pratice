@@ -7,5 +7,8 @@ public class ClassA {
 	public void m2() {
 		System.out.println("Hi");
 	}
+	public void m3() {
+		System.out.println("Hey");
+	}
 
 }
