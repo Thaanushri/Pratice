@@ -9,7 +9,7 @@ public class ClassA {
 	}
 	public void m3() {
 		System.out.println("Hey");
-		
+
 	}
 
 }
